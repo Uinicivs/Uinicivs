@@ -12,8 +12,8 @@
 <hr>
 
 - 📖 Graduando em Sistemas de Informação
-- 🧑‍💻 Estagiário em RPA
-- 🌱 Me interesso por **desenvolvimento backend**
+- 🧑‍💻 Estagiário em desenvolvimento C# .NET
+- 🌱 Me interesso por **desenvolvimento fullstack**
 
 <h3 align="left">Contatos:</h3>
 
