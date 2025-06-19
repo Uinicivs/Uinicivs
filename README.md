@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3e534397-a407-4307-8b56-a623b90b5357" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
   I'm Vinicius, a <strong>Full-Stack Developer</strong>.<br>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💌 Get in touch!!: ⤵️
+  💌 Get in touch!! ⤵️
 </p>
 
 <p align="left">
@@ -19,6 +19,3 @@
   <a href="https://www.linkedin.com/in/viniciushqalves/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
-
-
-
