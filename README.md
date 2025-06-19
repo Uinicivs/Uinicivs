@@ -1,25 +1,24 @@
-<h1 align="center">Olá! 👋, me chamo Vinicius Henrique</h1>
-<h3 align="center">Dev Backend</h3>
+<img src="https://github.com/user-attachments/assets/3e534397-a407-4307-8b56-a623b90b5357" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uinicivs&show_icons=true&theme=tokyonight&rank_icon=github" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uinicivs&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
-</div>
-<hr>
+<p align="left"> 
+  I'm Vinicius, a <strong>Full-Stack Developer</strong>.<br>
+  Building things because I love to. And because I’m paid to.
+</p>
 
-- 📖 Graduando em Sistemas de Informação
-- 🧑‍💻 Estagiário em desenvolvimento C# .NET
-- 🌱 Me interesso por **desenvolvimento fullstack**
+<p align="left">
+  🛠️ Using, mostly, Python, C# and TypeScript
+</p>
 
-<h3 align="left">Contatos:</h3>
+<p align="left">
+  💌 Get in touch!!: ⤵️
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciushqalves/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=viniciushqalves@gmail.com)
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=viniciushqalves@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/viniciushqalves/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 
-<h3 align="left">Linguagens:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
 
